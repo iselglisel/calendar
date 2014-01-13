@@ -1,0 +1,9 @@
+.thumbnail{
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
+}
+.well{
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
+}
+select:focus{
+	background-color: gold;
+}
